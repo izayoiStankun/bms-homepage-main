@@ -1,0 +1,22 @@
+{
+  "name": "Bms Theme Course series",
+  "symbol": "TC",
+  "level_order": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "?!"
+  ],
+  "folder_order": [ ],
+  "folder_sort_key": "",
+  "folder_sort_ascending": true,
+  "entry_type": "",
+  "data_url": "https:\/\/script.google.com\/macros\/s\/AKfycbxpEjrl5N7kvqX5RR650tub2Rgl6f5eJ8kfNsBqrAN3YxylkmwbOROQqriwu0cEKFA8\/exec",
+  "compat_prefix": "TC",
+  "last_update": "2023-09-02",
+  "editor_name": "BeMusicSeeker",
+  "editor_version": "0.3.5.6",
+  "output_date": "2023-11-11"
+}
