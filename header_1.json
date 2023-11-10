@@ -11,4 +11,358 @@
   ],
   "data_url": "./exec.json",
   "compat_prefix": "TC"
+  "course": [
+    [
+      {
+        "name": "あとぅすのプロポーズシリーズ ~夢に向かって走る私の仲間~",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50.0 },
+          { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
+          { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
+        ],
+        "md5": [
+          "1f383f6c8873245a8b80c37623edf5ac",
+          "0c401722e4180853f31719ff28d0c49e",
+          "cb8e996311399ec41ca2c5aa5ed8a66e",
+          "89f77c7054b0dbbad3bfa97585813c0a",
+          "bb1af8dfe90b8cc135fed613a7888190"
+        ]
+      },
+      {
+        "name": "あとぅすのプロポーズシリーズ ~ここから始まるサテライトの旅路~",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "900ba4c7fcb22ae4fa3574f07bcaf1fd",
+          "dfb188bcf9506f9f00626c5263a84366",
+          "1c92f941b47220c228b10caa5f54a7c6",
+          "152868a80cee75a86411bdc60c68dd36",
+          "1cd29c630f0857f7a9cc5edb00e29a0b"
+        ]
+      },
+      {
+        "name": "あとぅすのプロポーズシリーズ ~宇宙を旅するサテライトのための最後の旅~[FIXED]",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "4477569e9d0bee33ad929ec1cf0de878",
+          "d822f7e546e307f231edff73400737d1",
+          "f57c93ffabedb60b76a9f51f26aa84c7",
+          "d1c385f99b7a276c407a80280aa3fa7d"
+        ]
+      },
+      {
+        "name": "あとぅすのプロポーズシリーズ ~終わらない宇宙の果てに向かう旅人~",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "7c619937f0448c48e4b7de0c5da8940c",
+          "e1471b2ec2de2a67c3aaff31a1f60011",
+          "39451b7b2ef9310b5d9685c07fb2fd42",
+          "9076c384d78d4b5f77a2517a7b06e506",
+          "59ee16a8325b5fc5978f1e465b76d844"
+        ]
+      },
+
+      {
+        "name": "SUPER ULTRA DX EUROBEAT SERIES Vol.1",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50.0 },
+          { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
+          { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
+        ],
+        "md5": [
+          "3bff7f305a2ffd1b189bbb36c8892ac3",
+          "8b46a5505155123b90c484cce480c069",
+          "0a0a529e24af58e55561df44f3ace4c2",
+          "4715cda209c8b46475dc6c3e0eca41c1",
+          "e845cb035ece5655907f77d6ec495fb6"
+        ]
+      },
+      {
+        "name": "SUPER ULTRA DX EUROBEAT SERIES Vol.2",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "9fb06a629c1dc3323107a11671665910",
+          "b7c4b2b39c5cc94883148c9020ef8a84",
+          "35940de949dede743c6691753955cec2",
+          "759408e8a0549292963b2948f67111f3",
+          "7bc133cb61747bed7ddc88c9eddddbf5"
+        ]
+      },
+      {
+        "name": "SUPER ULTRA DX EUROBEAT SERIES Vol.3",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "7cda74bdd1200b49a77a802ec3772f64",
+          "2dbea18093752099ed1252a64d077697",
+          "b33eba5c086f41ab89b78207f3b301b9",
+          "e88320b832e16b0ef79e40674d3af2c2",
+          "d93d26ea51b78bc9b000b24aae30eabd"
+        ]
+      },
+      {
+        "name": "SUPER ULTRA DX EUROBEAT SERIES Vol.MAX",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "70120d2889c1e30252289b4e95e1f0c6",
+          "fe2fbfefcdf57b56bb6aaa89d6ee11cc",
+          "c2662bad732fe327afd467c1f628fe63",
+          "a0a6198fba3f1354c9279a190b81ba48",
+          "40245d0384a485fe1a2ffec75095f626"
+        ]
+      },
+
+     	{
+        "name": "ピアノの物語 序章 : 森の中 まぼろしの世へ 進もう",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50.0 },
+          { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
+          { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
+        ],
+        "md5": [
+          "b349498ca664a67e9591be23fdfab146",
+          "fffd70b5a4c63371d1ecb52c371d4f3f",
+          "70c4f053064133736562ad85ffdeca16",
+          "30882661a8f75e25c5a955d4c4f092e1",
+          "ac2254df689384e058faec4679229790"
+        ]
+      },
+      {
+        "name": "ピアノの物語 2章 :始と終 君と見ていた 花の丘",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "1444f6dfaa7fd802586af5b331bac1ca",
+          "f47f11c37c8d4e14ac5c850c38b9446d",
+          "254a9ba212e291b0c3a5e3c5fdba921c",
+          "c0f71dae2354859ed254389e8eafa8e2",
+          "44c0c0b31e8fce99d8f0232ef0d6286c"
+        ]
+      },
+      {
+        "name": "ピアノの物語 3章 :激動の 苦してるでも 前進に",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "d66813093569ae2ad43626ca04be5582",
+          "fb165dee16703cd3828916a2d8ad00f2",
+          "ce7b401b88f1d0fd7322ef5cf31303e5",
+          "752416e9df6c196cb2e8bca35a391d45",
+          "df580c12ea6b9415d3c4e7c8a41cd6e1"
+        ]
+      },
+      {
+        "name": "ピアノの物語 4章 : 蛤の ふたみにわかれ 行く秋ぞ",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "b271ed8ceff2e397773c8bda982f2cc9",
+          "877f4a37193f789cf1dee377c3774282",
+          "7850a7c5a36681106e68e1cd0603af21",
+          "938acecd03ff1f0a178abfebb1ed1f2b",
+          "bb91cef81d13b8d1146b0dbfeb4450f8"
+        ]
+      },
+
+	   {
+        "name": "[THE legendary PEPSI COLA SWORD]",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50.0 },
+          { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
+          { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
+        ],
+        "md5": [
+          "5e72be4ac64c0536a7e07ff6e133cdbd",
+          "36eb194314795da5a86c2786bed987f3",
+          "6c9e696aa2daa27e41b6699ffb4a6729",
+          "211fe8e2962ff3cdcc51ee22cfd4ca55"
+        ]
+      },
+      {
+        "name": "Fall in BLASS, Have nice Goodlife",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "b4b96c419fa0b3b60389abadb1be7af9",
+          "98a9286c56a67b866c0caf1f03f113a9",
+          "e67706ccd36daa792149cdfb5bf93538",
+          "228e20a9cd8e4af8ef15233c44ba66bb"
+        ]
+      },
+      {
+        "name": "[THE LEGENDARY PEPSI STRONG COLA SWORD]",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "0e63a8300f5986dc749d02462e8609e4",
+          "ccafe6520d23ea62e6525d374e147dee",
+          "0fd57c10d093b4e4210deeb7b91afc01",
+          "6ef89e6bcd54acc71d44b766972513d9"
+        ]
+      },
+
+  {
+        "name": "Do YoU KNoW GARAM MASALA?",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 9.0, "scorerate": 50.0 },
+          { "name": "silvermedal", "missrate": 6.5, "scorerate": 60.0 },
+          { "name": "goldmedal", "missrate": 3.5, "scorerate": 75.0 }
+        ],
+        "md5": [
+          "d89ea641d2ae9502d43f6905a5ede5a0",
+          "9656746c8daaeb7c568cced3da769e18",
+          "e8f3ffafe1a1a8c84ed2d2cb380d324d",
+          "73395275177496a244eef87cc2ee63c1",
+          "d1a5b9b43147a550a65f46507b3444a5"
+        ]
+      },
+      {
+        "name": "吹雪に揺られる花たちは涙を呑む",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 7.5, "scorerate": 55.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "df86a7fc761a23589f4ce8160fcd578e",
+          "bcadd3e68c4c07416f3c1bf8f8f45c10",
+          "21e6d4b06d81b602b1a0cb190d2d83e0",
+          "838b021a6c4fac7f36d62c83a9afeb30",
+          "b0f890ed64a4c43513d4c0d698b77dbf"
+        ]
+      },
+      {
+        "name": "僕らのイチゴショットケーキ戦争",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "e076bb9acc462276ac7f273f073ad34b",
+          "043880563155d8763a33660bfda32c23",
+          "d783d45b7229daf47d4ce41d88faa3d4",
+          "61519b432a4912f0b8d3258803b02ea1",
+          "ddb2c34e1543c219c4b251b13671be1f"
+        ]
+      },
+      {
+        "name": "THE LEGENDLY OF PUNAI STORY",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "522ce11990d09b94e515b653705be4fd",
+          "e92a248bd8131fcc94dcd81cf0a0bdd1",
+          "f52a29ece44c140f9692f85af24ae657"
+        ]
+      },
+      {
+        "name": "Happy Golden weeeeeekend",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "268508cd8f9da505d7069fe3c57370fc",
+          "64e3148d9b0d0bec242b026af08f1125",
+          "5a7f422b05a7867ccdd47f10ebe31907",
+          "ad6180fee0369366d933472ad6080ec4",
+          "e44166113b52b63f9330d435761ce52f"
+        ]
+      },
+     {
+        "name": "I am become Death, the destroyer of worlds.",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "6d5197c9e4702027663da3d4ccde7e3e",
+          "906ea3be1e23273830fe5a1405200e52",
+          "9a8e87868c57cedbf54167f3a826b141",
+          "e5c37ffef1401274cfc59110df6b0b86",
+          "2c809e2b33ca75c15d8c56bf81913dc1"
+        ]
+      },
+      {
+        "name": "日曜日 朝8：00",
+        "constraint": ["grade_random", "gauge_7k"],
+        "trophy": [
+          { "name": "bronzemedal", "missrate": 6.0, "scorerate": 60.0 },
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 75.0 },
+          { "name": "goldmedal", "missrate": 2.0, "scorerate": 90.0 }
+        ],
+        "md5": [
+          "43e0400fb9e0d9873c1188bf1482c9e2",
+          "0c230998d79172a569b9d347f54a63fd",
+          "1d5b027340a6351030117fc4e7f13deb"
+        ]
+      }
+
+    ]
+  ]
+
 }
