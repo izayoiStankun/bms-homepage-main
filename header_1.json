@@ -10,6 +10,5 @@
     "?!"
   ],
   "data_url": "./exec.json",
-  "compat_prefix": "TC",
-  "editor_name": "BeMusicSeeker",
+  "compat_prefix": "TC"
 }
